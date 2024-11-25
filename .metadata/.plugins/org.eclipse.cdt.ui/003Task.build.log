@@ -1,4 +1,4 @@
-16:10:34 **** Incremental Build of configuration Debug for project 003Task ****
+21:22:47 **** Incremental Build of configuration Debug for project 003Task ****
 make -j4 all 
 arm-none-eabi-size   003Task.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   003Task.elf
 Finished building: default.size.stdout
  
 
-16:10:35 Build Finished. 0 errors, 0 warnings. (took 499ms)
+21:22:47 Build Finished. 0 errors, 0 warnings. (took 715ms)
 

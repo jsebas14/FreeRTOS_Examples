@@ -1,0 +1,8 @@
+../Core/Src/main.c:77:5:main	40	static,ignoring_inline_asm
+../Core/Src/main.c:146:6:SystemClock_Config	88	static
+../Core/Src/main.c:197:13:vLED_Green_handler	32	static
+../Core/Src/main.c:218:13:vLED_Blue_handler	32	static
+../Core/Src/main.c:239:13:vLED_Red_handler	32	static
+../Core/Src/main.c:262:13:vButton_handler	32	static
+../Core/Src/main.c:291:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:308:6:Error_Handler	4	static,ignoring_inline_asm
